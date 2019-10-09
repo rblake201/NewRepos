@@ -1,2 +1,3 @@
 A short message
 New message
+a completely different message
